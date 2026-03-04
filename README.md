@@ -55,8 +55,6 @@ A Jornada Python é um programa voltado ao desenvolvimento de competências téc
 
 <br>
 
----
-
 <div align="center">
   
 # "Python Journey" Course
