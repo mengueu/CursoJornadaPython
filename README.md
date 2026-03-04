@@ -1,11 +1,11 @@
 <div align="center">
   
-# Curso Jornada Python
+# Curso "Jornada Python"
 </div>
 
 ## 📌 Sobre este Repositório
 
-Este repositório tem como objetivo demonstrar, de forma prática e estruturada, os conhecimentos adquiridos por Miguel Augusto Rocha ao longo da realização do curso **“Jornada Python”**, oferecido pelo canal <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação.</a>
+Este repositório tem como objetivo demonstrar, de forma prática e estruturada, os conhecimentos adquiridos por Miguel Augusto Rocha ao longo da realização do curso **“Jornada Python”**, com duração de 8 horas e oferecido pelo canal <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação.</a>
 
 A Jornada Python é um programa voltado ao desenvolvimento de competências técnicas em Python, abrangendo desde automação de tarefas e análise de dados até fundamentos de inteligência artificial e desenvolvimento de aplicações. O curso propõe uma abordagem aplicada, com foco em resolução de problemas reais e construção de projetos práticos.
 
@@ -64,7 +64,7 @@ A Jornada Python é um programa voltado ao desenvolvimento de competências téc
 
 ## 📌 About This Repository
 
-This repository aims to practically and systematically demonstrate the knowledge acquired by Miguel Augusto Rocha throughout the **“Python Journey”** course, offered by the <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação</a> channel.
+This repository aims to practically and systematically demonstrate the knowledge acquired by Miguel Augusto Rocha throughout the **“Python Journey”** course, with a duration of 8 hours and offered by the <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação</a> channel.
 
 The Python Journey is a program focused on developing technical skills in Python, covering everything from task automation and data analysis to the fundamentals of artificial intelligence and application development. The course follows a hands-on approach, emphasizing real-world problem solving and practical project development.
 
